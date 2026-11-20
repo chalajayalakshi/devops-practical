@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+venv/
+.idea/
+*.iml
+.packages
+.pub-cache/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+/build/
+/coverage/
